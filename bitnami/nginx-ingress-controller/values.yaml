@@ -456,7 +456,7 @@ defaultBackend:
   service:
     ## Service type
     ##
-    type: ClusterIP
+    type: LoadBalancer
     ## Service port
     ##
     port: 80
